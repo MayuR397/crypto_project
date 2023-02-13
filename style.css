@@ -1,0 +1,14 @@
+table{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 90%;
+    margin: auto;
+}
+
+th{
+    /* border: 1px solid black; */
+    width: 7%;
+}
+td{
+    text-align: center;
+    /* border: 1px solid black; */
+}
